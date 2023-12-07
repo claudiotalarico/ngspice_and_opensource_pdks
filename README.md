@@ -1,2 +1,2 @@
-# ngspice_and_opensource_pdks
+# ngspice and opensource pdks
 Experimenting with ngspice and open source pdks
