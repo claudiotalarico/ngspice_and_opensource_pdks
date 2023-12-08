@@ -30,9 +30,9 @@ These scripts are adapted from the scripts developed by B. Murmann<br>
 `test_lookupVGS_ngspice.m`<br>
 *Usage examples for the function "look_upVGS"*<br>
 
-*For more details, from within matlab use:*<br> 
->help look_up<br>
->help look_upVGS
+*Also, for more details, from within matlab use:*<br> 
+>`help look_up`<br>
+>`help look_upVGS`
 
 ### Notes
 The sky130's Ngspice model for the PMOS has issues (both in the SKY130A and the SKY130B). <br>
