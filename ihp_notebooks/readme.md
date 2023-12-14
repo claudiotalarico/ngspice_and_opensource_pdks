@@ -1,5 +1,5 @@
 Before getting started
-1. clone IHP open source PDK
+1. clone the IHP opensource PDK
 > `cd ~`<br>
 > `git clone https://github.com/IHP-GmbH/IHP-Open-PDK.git`<br>
 > `cd IHP-Open-PDK`<br>
@@ -11,3 +11,4 @@ Before getting started
 `./openvaf ./IHP-Open-PDK/ihp-sg13g2/libs.tech/ngspice/openvaf/psp103_nqs.va`<br>
 `cp ./IHP-Open-PDK/ihp-sg13g2/libs.tech/ngspice/openvaf/psp103_nqs.osdi <some_path>/.`<br>
 
+Hello World example: [VGS sweep](https://github.com/bmurmann/Ngspice-on-Colab/blob/main/notebooks/IHP_SG13G2_VGS_sweep.ipynb)
