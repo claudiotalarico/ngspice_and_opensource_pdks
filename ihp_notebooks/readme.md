@@ -11,4 +11,4 @@ Before getting started
 `./openvaf ./IHP-Open-PDK/ihp-sg13g2/libs.tech/ngspice/openvaf/psp103_nqs.va`<br>
 `cp ./IHP-Open-PDK/ihp-sg13g2/libs.tech/ngspice/openvaf/psp103_nqs.osdi <some_path>/.`<br>
 
-Hello World example: [VGS sweep](https://github.com/bmurmann/Ngspice-on-Colab/blob/main/notebooks/IHP_SG13G2_VGS_sweep.ipynb)
+Hello World example: [IHP SG13G2 VGS sweep](https://github.com/bmurmann/Ngspice-on-Colab/blob/main/notebooks/IHP_SG13G2_VGS_sweep.ipynb)
