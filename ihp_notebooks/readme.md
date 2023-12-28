@@ -12,5 +12,5 @@
 `cp ./IHP-Open-PDK/ihp-sg13g2/libs.tech/ngspice/openvaf/psp103_nqs.osdi <some_path>/.`<br>
 
 #### IHP sg13g2 "Hello World" examples: 
-[VGS sweep](https://github.com/claudiotalarico/ngspice_and_opensource_pdks/blob/main/ihp_notebooks/ihp_vgs_sweep.ipynb)<br>
+[VGS sweep](https://github.com/claudiotalarico/ngspice_and_opensource_pdks/blob/main/ihp_notebooks/ihp_vgs_sweep.ipynb) (for more info check out [Boris Murmann's github](https://github.com/bmurmann/Ngspice-on-Colab/blob/main/notebooks/IHP_SG13G2_VGS_sweep.ipynb))<br>
 [i-v Curves](https://github.com/claudiotalarico/ngspice_and_opensource_pdks/blob/main/ihp_notebooks/ihp_ivCurves.ipynb)
